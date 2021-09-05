@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../gitlab_resources/curriculum_fork/01-ClassActivities/Mod11-Javascript/Lecture1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "UFOs"
+	}
+}
