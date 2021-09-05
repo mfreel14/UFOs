@@ -35,5 +35,10 @@ Example 3 - All Filters Selected
 
 
 ## (Project Name) - Summary
-automated pulls to data.js so table is continually updated.
-search date to and from / constraints and keys for shape type, cities ,etc
+
+One drawback to the current design is a lack of a key that has the search criteria.  Adding a search key would help the user know the specifics in each parameter of the filters.  By default for a search of "shape" we have listed "circle" to help with our search.  However, looking through the data we can see that other shapes are triangle, light, unknown, formation etc.  A key header above the results table would help users find the information they're looking for faster.
+
+For the future, adding a script that has automated calls for data on future sightings would keep the table live and up to date.  
+
+Additionaly in regards to building a key to our data table, adding constraints on the dates our data starts and ends would be helpful to the user.  Future builds would benefit from having the user able to search within a time frame.  An example would be to search all sightings between 1/1/2010 and 1/3/2010 with the user specified filters.  
+
