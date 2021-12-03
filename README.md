@@ -12,7 +12,7 @@ THe project allows more in-depth analysis of UFO sightings by allowing users to 
 
 # Challenge Summary
 
-## (Project Name) - Results
+## UFO Analysis - Results
 
 The webpage uses the filters to sort the data through user input.  By default, all the UFO data is sorted by date within the results table.
 ![Screen Shot 2021-09-05 at 1 46 45 PM](https://user-images.githubusercontent.com/691355/132141002-90251a1b-aedb-470a-bce4-d84042a7b97c.png)
@@ -34,7 +34,7 @@ Example 3 - All Filters Selected
 ![Screen Shot 2021-09-05 at 1 54 54 PM](https://user-images.githubusercontent.com/691355/132141179-9c27b347-08c5-442d-998d-81717a23fa22.png)
 
 
-## (Project Name) - Summary
+## UFO Analysis - Summary
 
 One drawback to the current design is a lack of a key that has the search criteria.  Adding a search key would help the user know the specifics in each parameter of the filters.  By default for a search of "shape" we have listed "circle" to help with our search.  However, looking through the data we can see that other shapes are triangle, light, unknown, formation etc.  A key header above the results table would help users find the information they're looking for faster.
 
